@@ -12,6 +12,5 @@ public class ReverseString {
 		StringBuilder sb = new StringBuilder(s);
 		sb.reverse();
 		System.out.println(sb);
-		
 	}
 }
