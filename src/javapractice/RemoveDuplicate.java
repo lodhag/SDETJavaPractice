@@ -1,3 +1,4 @@
+//Write a Java program to remove duplicates from an array.
 package javapractice;
 
 import java.util.Arrays;
